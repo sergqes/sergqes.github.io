@@ -3,4 +3,4 @@
 # Сергей Григорьев 
 Мои работы
 
-[Клавиатура на HTML и CSS] (sergqes.github.io/first_website/ "Клавиатура на HTML и CSS")
+[Клавиатура на HTML и CSS] (sergqes.github.io/first_website/)
