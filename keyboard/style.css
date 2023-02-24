@@ -1,0 +1,131 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.keyboard {
+    width: 1228px;
+    margin: 150px auto;
+    border: 1px solid skyblue;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.line {
+    display: flex;
+}
+.key {
+    display: flex;
+    flex-direction: column;
+    width: 40px;
+    height: 40px;
+    border: 1px solid slategray;
+    border-radius: 4px;
+    margin: 3px;
+    padding: 4px;
+    text-align: center;
+    justify-content: center;
+}
+
+.prtsc, .schlk, .pause, .backspace, .home, .pgup, .num, .del, .end, .pgdn, .leftenter, .rightenter, .caps, .shift, .ctrl, .alt, .win, .left, .down, .right {
+    width: auto;
+}
+
+.empty {
+    border: none;
+}
+
+.backspace {
+    width: 132px;
+}
+
+.prtsc, .pause, .ins, .del, .pgup, .pgdn, .home, .end, .up, .down, .left, .right {
+    width: 62px;
+}
+
+.stick {
+    width: 92px;
+}
+
+.tab {
+    width: 80px;
+}
+
+.num {
+    font-size: 13px;
+}
+
+.leftenter {
+    width: 118px;
+}
+
+.caps {
+    width: 100px;
+}
+
+.fullempty {
+    width: 290px;
+    border: none;
+}
+
+.halfempty {
+    width: 108px;
+    border: none;
+}
+
+.shift {
+    width: 132px;
+}
+
+.space {
+    width: 354px;
+}
+
+.alt, .ctrl, .fn {
+    width: 60px;
+}
+
+.fn img {
+    width: 35px;
+    height: 35px;
+    margin: auto;
+}
+
+.left {
+    margin-left: -65px;
+}
+
+.zero {
+    width: 85px;
+}
+
+.key:hover {
+    color: #fff;
+    cursor: pointer;
+    background: gray;
+}
+
+.plus {
+  position: fixed;
+  height: 86px;
+  margin-left: 1173px;
+}
+
+.rightenter {
+    width: 40px;
+    position: fixed;
+    height: 86px;
+    margin-left: 1173px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    font-size: 14px;
+}
+
+
+
+
