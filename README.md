@@ -7,4 +7,4 @@
 
 [Клавиатура на HTML и CSS](https://sergqes.github.io/keyboard "Клавиатура на HTML и CSS")
 
-[Калькулятор на HTML, CSS и JS](https://sergqes.github.io/cal "Калькулятор на HTML, CSS и JS")
+[Калькулятор на HTML, CSS и JS](https://sergqes.github.io/calc "Калькулятор на HTML, CSS и JS")
